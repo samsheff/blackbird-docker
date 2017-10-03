@@ -1,4 +1,4 @@
-#blackbird meets Docker
+# Blackbird meets Docker
 This is a simple Docker container for blackbird, a Bitcoin Arbitrage Bot. The one currently in master in the official repo was out of date and not building.
 
 The Dockerfile pulls the current source, installs the dependencies and installs it.
